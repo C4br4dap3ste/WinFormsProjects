@@ -1,0 +1,8 @@
+E:\d.s\231254\bin\Debug\231254.exe.config
+E:\d.s\231254\bin\Debug\231254.exe
+E:\d.s\231254\bin\Debug\231254.pdb
+E:\d.s\231254\obj\Debug\231254.csproj.AssemblyReference.cache
+E:\d.s\231254\obj\Debug\231254.csproj.SuggestedBindingRedirects.cache
+E:\d.s\231254\obj\Debug\231254.csproj.CoreCompileInputs.cache
+E:\d.s\231254\obj\Debug\231254.exe
+E:\d.s\231254\obj\Debug\231254.pdb

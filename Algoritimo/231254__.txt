@@ -1,0 +1,3 @@
+Carro-Placa, numero de chassi, matricula renavan/seguro
+Cadeira-Dimensões, número de série/modelo/lote
+NF-e-Número de identificação/cpf/cnpj do recebedor/cobrado

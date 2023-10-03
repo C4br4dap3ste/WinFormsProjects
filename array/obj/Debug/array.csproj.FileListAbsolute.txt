@@ -1,0 +1,8 @@
+E:\d.s\array\bin\Debug\array.exe.config
+E:\d.s\array\bin\Debug\array.exe
+E:\d.s\array\bin\Debug\array.pdb
+E:\d.s\array\obj\Debug\array.csproj.AssemblyReference.cache
+E:\d.s\array\obj\Debug\array.csproj.SuggestedBindingRedirects.cache
+E:\d.s\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+E:\d.s\array\obj\Debug\array.exe
+E:\d.s\array\obj\Debug\array.pdb

@@ -1,0 +1,17 @@
+E:\d.s\231254prova\bin\Debug\net7.0-windows\231254prova.exe
+E:\d.s\231254prova\bin\Debug\net7.0-windows\231254prova.deps.json
+E:\d.s\231254prova\bin\Debug\net7.0-windows\231254prova.runtimeconfig.json
+E:\d.s\231254prova\bin\Debug\net7.0-windows\231254prova.dll
+E:\d.s\231254prova\bin\Debug\net7.0-windows\231254prova.pdb
+E:\d.s\231254prova\obj\Debug\net7.0-windows\231254prova.csproj.AssemblyReference.cache
+E:\d.s\231254prova\obj\Debug\net7.0-windows\_231254prova.Form1.resources
+E:\d.s\231254prova\obj\Debug\net7.0-windows\231254prova.csproj.GenerateResource.cache
+E:\d.s\231254prova\obj\Debug\net7.0-windows\231254prova.GeneratedMSBuildEditorConfig.editorconfig
+E:\d.s\231254prova\obj\Debug\net7.0-windows\231254prova.AssemblyInfoInputs.cache
+E:\d.s\231254prova\obj\Debug\net7.0-windows\231254prova.AssemblyInfo.cs
+E:\d.s\231254prova\obj\Debug\net7.0-windows\231254prova.csproj.CoreCompileInputs.cache
+E:\d.s\231254prova\obj\Debug\net7.0-windows\231254prova.dll
+E:\d.s\231254prova\obj\Debug\net7.0-windows\refint\231254prova.dll
+E:\d.s\231254prova\obj\Debug\net7.0-windows\231254prova.pdb
+E:\d.s\231254prova\obj\Debug\net7.0-windows\231254prova.genruntimeconfig.cache
+E:\d.s\231254prova\obj\Debug\net7.0-windows\ref\231254prova.dll

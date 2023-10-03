@@ -1,0 +1,5 @@
+C#
+Algoritmo/c#
+   E      &&
+   OU     ||
+   NÃO    !
